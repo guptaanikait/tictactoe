@@ -38,5 +38,4 @@ A console-based Tic Tac Toe game implemented in Kotlin. Two players alternate tu
 - Alternates `flag1` between 0 and 1 to switch turns between 'X' and 'O'.
 
 
-## Sample Game Play
 
